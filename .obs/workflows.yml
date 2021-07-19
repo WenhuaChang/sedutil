@@ -1,0 +1,5 @@
+workflow:
+  steps:
+    - branch_package:
+        source_project: home:michael-chang:obs_scm-webhook
+        source_package: sedutil
